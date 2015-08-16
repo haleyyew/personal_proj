@@ -50,6 +50,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="f5f0df69-257e-4fca-876d-e6a1636a4886" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\RestaurantQuiz-Phase2.apk" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\MarkerManager.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\R$array.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\R$integer.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\R.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\RestaurantQuiz$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\RestaurantQuiz$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\RestaurantQuiz$3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\RestaurantQuiz$4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\RestaurantQuiz$5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\RestaurantQuiz$6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\RestaurantQuiz$AutoCompleteSelectionHandler$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\RestaurantQuiz$AutoCompleteSelectionHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\RestaurantQuiz$DownloadRestaurantsFromYelpTask.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\RestaurantQuiz$DownloadRouteFromGoogleTask.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\RestaurantQuiz$MapClickHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\RestaurantQuiz.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\Score.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\ScoreListAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\ScoreSerializer.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\activity\ScoreTracker.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\google\GoogleAPI.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\google\GoogleDirectionsParser.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\model\Category.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\model\City.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\model\GeoArea.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\model\Leg.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\model\Neighbourhood.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\model\Restaurant.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\model\Route.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\util\Constants.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\yelp\TwoStepOAuth.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\yelp\YelpAPI.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\ca\ubc\cs\cpsc210\quiz\yelp\YelpDataParser.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\com\google\android\gms\BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\com\google\android\gms\R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\com\google\android\gms\R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\com\google\android\gms\R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\com\google\android\gms\R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\com\google\android\gms\R$integer.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\com\google\android\gms\R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\com\google\android\gms\R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\com\google\android\gms\R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Haoran\SkyDrive\personal_proj\SearchQueryRandomizer\out\production\RestaurantQuiz-Phase2\com\google\android\gms\R.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Restaurant Quiz.iws" />
@@ -69,6 +124,7 @@
     <ignored path="google-play-services_lib/src/" />
     <ignored path="google-play-services_lib/.classpath" />
     <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,96 +135,100 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DaemonCodeAnalyzer">
-    <disable_hints />
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="Restaurant Quiz" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RestaurantQuiz.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="RestaurantQuiz.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/RestaurantQuiz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="3876" max-vertical-offset="17051">
-              <caret line="268" column="33" selection-start-line="268" selection-start-column="33" selection-end-line="268" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="289" column="0" selection-start-line="289" selection-start-column="0" selection-end-line="289" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_category_chooser.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/res/layout/activity_category_chooser.xml">
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="96" column="0" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GoogleDirectionsParser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/google/GoogleDirectionsParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
               <folding>
-                <element signature="e#5866#5888#0" expanded="true" />
-                <element signature="e#5927#5938#0" expanded="true" />
-                <element signature="e#7159#7173#0" expanded="true" />
-                <element signature="e#7305#7316#0" expanded="true" />
-                <element signature="e#7835#8144#0" expanded="true" />
-                <element signature="e#8133#8134#0" expanded="true" />
-                <element signature="e#8599#8607#0" expanded="true" />
-                <element signature="e#9133#9141#0" expanded="true" />
-                <element signature="e#9414#9422#0" expanded="true" />
-                <element signature="e#12202#12212#0" expanded="true" />
-                <element signature="e#12745#12755#0" expanded="true" />
-                <element signature="e#13588#13873#0" expanded="true" />
-                <element signature="e#13862#13863#0" expanded="true" />
-                <element signature="e#25529#25656#0" expanded="true" />
-                <element signature="e#25645#25646#0" expanded="true" />
-                <element signature="e#25927#26070#0" expanded="true" />
-                <element signature="e#26055#26056#0" expanded="true" />
-                <element signature="e#26181#26297#0" expanded="true" />
-                <element signature="e#26290#26291#0" expanded="true" />
-                <element signature="e#26632#26640#0" expanded="true" />
-                <element signature="e#27121#27405#0" expanded="true" />
-                <element signature="e#27398#27399#0" expanded="true" />
-                <element signature="e#37442#38041#0" expanded="true" />
-                <element signature="e#38026#38027#0" expanded="true" />
+                <element signature="imports" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GoogleDirectionsParser.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/google/GoogleDirectionsParser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="1207">
-              <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GoogleAPI.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="GoogleAPI.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/google/GoogleAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="986">
+            <state vertical-scroll-proportion="0.0">
               <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Score.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Score.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/Score.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="629">
+            <state vertical-scroll-proportion="0.0">
               <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="e#677#678#0" expanded="false" />
+                <element signature="e#717#718#0" expanded="false" />
+                <element signature="e#752#753#0" expanded="false" />
+                <element signature="e#791#792#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ScoreTracker.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ScoreTracker.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/ScoreTracker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="2924">
+            <state vertical-scroll-proportion="0.0">
               <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#2690#2691#0" expanded="false" />
+                <element signature="e#2724#2725#0" expanded="false" />
+                <element signature="e#2907#2908#0" expanded="false" />
+                <element signature="e#2946#2947#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MarkerManager.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="MarkerManager.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/MarkerManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1496" max-vertical-offset="2618">
+            <state vertical-scroll-proportion="0.0">
               <caret line="88" column="50" selection-start-line="88" selection-start-column="50" selection-end-line="88" selection-end-column="50" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#957#958#0" expanded="false" />
+                <element signature="e#1011#1012#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -183,10 +243,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
-    <option name="width" value="1612" />
+    <option name="width" value="1618" />
     <option name="height" value="884" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -230,13 +298,54 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="SearchQueryRandomizer" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restaurant Quiz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SearchQueryRandomizer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quiz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restaurant Quiz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SearchQueryRandomizer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quiz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -250,7 +359,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.23598129" />
     <property name="recentsLimit" value="5" />
@@ -282,6 +391,26 @@
       <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -303,25 +432,13 @@
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
+      <module />
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -337,6 +454,22 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -360,24 +493,17 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
       <method />
     </configuration>
     <configuration default="false" name="RestaurantQuiz" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -427,134 +553,199 @@
     <task active="true" id="Default" summary="Default task">
       <changelist id="f5f0df69-257e-4fca-876d-e6a1636a4886" name="Default" comment="" />
       <created>1414108795095</created>
+      <option name="number" value="Default" />
       <updated>1414108795095</updated>
     </task>
     <task id="LOCAL-00001" summary="Non-gradle version of Phase 2 complete">
       <created>1414537504103</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
       <updated>1414537504103</updated>
     </task>
     <task id="LOCAL-00002">
       <created>1414537735103</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
       <updated>1414537735103</updated>
     </task>
     <task id="LOCAL-00003" summary="Min SDK now 14">
       <created>1415119792106</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
       <updated>1415119792106</updated>
     </task>
     <task id="LOCAL-00004" summary="Reset google play services module">
       <created>1415120080103</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
       <updated>1415120080103</updated>
     </task>
     <task id="LOCAL-00005" summary="Set up framework support">
       <created>1415120120102</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
       <updated>1415120120102</updated>
     </task>
     <task id="LOCAL-00006" summary="Fixed bug with initial dialog not displaying when game is won">
       <created>1415121478103</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
       <updated>1415121478103</updated>
     </task>
     <task id="LOCAL-00007" summary="Refactored RestaurantQuiz">
       <created>1415124534106</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
       <updated>1415124534106</updated>
     </task>
     <task id="LOCAL-00008" summary="Further refactoring of RestaurantQuiz&#10;Added TODO for potential Phase 2 tasks">
       <created>1415127065102</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
       <updated>1415127065102</updated>
     </task>
     <task id="LOCAL-00009" summary="Improved layout at bottom of window - textviews now span two lines">
       <created>1415128436104</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
       <updated>1415128436104</updated>
     </task>
     <task id="LOCAL-00010" summary="Removed redundant links to libraries.">
       <created>1415151283109</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
       <updated>1415151283109</updated>
     </task>
     <task id="LOCAL-00011" summary="Integrated Google Play Services module">
       <created>1415152883104</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
       <updated>1415152883104</updated>
     </task>
     <task id="LOCAL-00012" summary="Added Google Play Services lib to svn ignore">
       <created>1415162073109</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
       <updated>1415162073109</updated>
     </task>
     <task id="LOCAL-00013" summary="Updated after removing play services lib from version control">
       <created>1415211401104</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
       <updated>1415211401104</updated>
     </task>
     <task id="LOCAL-00014" summary="Refactoring of names in RestaurantQuiz.&#10;Moved arrow.png resource.">
       <created>1415240377110</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
       <updated>1415240377110</updated>
     </task>
     <task id="LOCAL-00015">
       <created>1415241458111</created>
+      <option name="number" value="00015" />
+      <option name="project" value="LOCAL" />
       <updated>1415241458111</updated>
     </task>
     <task id="LOCAL-00016" summary="Factored out marker management into MarkerManager class">
       <created>1415319869105</created>
+      <option name="number" value="00016" />
+      <option name="project" value="LOCAL" />
       <updated>1415319869105</updated>
     </task>
     <task id="LOCAL-00017" summary="Added documentation to MarkerManager">
       <created>1415320337102</created>
+      <option name="number" value="00017" />
+      <option name="project" value="LOCAL" />
       <updated>1415320337102</updated>
     </task>
     <task id="LOCAL-00018" summary="Recent scores persisted and menu option added to display them (needs more work - custom view for scores needed)">
       <created>1415329048103</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
       <updated>1415329048103</updated>
     </task>
     <task id="LOCAL-00019" summary="Polished recent scores view.">
       <created>1415339884107</created>
+      <option name="number" value="00019" />
+      <option name="project" value="LOCAL" />
       <updated>1415339884107</updated>
     </task>
     <task id="LOCAL-00020" summary="Fixed bug serializing scores">
       <created>1415341168104</created>
+      <option name="number" value="00020" />
+      <option name="project" value="LOCAL" />
       <updated>1415341168104</updated>
     </task>
     <task id="LOCAL-00021" summary="Standardized text size in scores list">
       <created>1415341405104</created>
+      <option name="number" value="00021" />
+      <option name="project" value="LOCAL" />
       <updated>1415341405104</updated>
     </task>
     <task id="LOCAL-00022" summary="Added documentation">
       <created>1415386953110</created>
+      <option name="number" value="00022" />
+      <option name="project" value="LOCAL" />
       <updated>1415386953110</updated>
     </task>
     <task id="LOCAL-00023" summary="Added custom background color for high scores list.">
       <created>1415391150102</created>
+      <option name="number" value="00023" />
+      <option name="project" value="LOCAL" />
       <updated>1415391150102</updated>
     </task>
     <task id="LOCAL-00024" summary="Deleted PolylineDecoder - using the one provided in maps-util library instead.">
       <created>1415394205103</created>
+      <option name="number" value="00024" />
+      <option name="project" value="LOCAL" />
       <updated>1415394205103</updated>
     </task>
     <task id="LOCAL-00025">
       <created>1415404831107</created>
+      <option name="number" value="00025" />
+      <option name="project" value="LOCAL" />
       <updated>1415404831107</updated>
     </task>
     <task id="LOCAL-00026">
       <created>1415405281102</created>
+      <option name="number" value="00026" />
+      <option name="project" value="LOCAL" />
       <updated>1415405281102</updated>
     </task>
     <task id="LOCAL-00027" summary="Stripped out code that students must add as part of Phase 2.  Added TODOs.">
       <created>1415571313105</created>
+      <option name="number" value="00027" />
+      <option name="project" value="LOCAL" />
       <updated>1415571313105</updated>
     </task>
     <task id="LOCAL-00028" summary="Updated documentation - distance truncated rather than rounded off to nearest integer">
       <created>1415650228112</created>
+      <option name="number" value="00028" />
+      <option name="project" value="LOCAL" />
       <updated>1415650228112</updated>
     </task>
     <task id="LOCAL-00029" summary="Update to DownloadRestaurantsFromYelpTask - toast now displays if operation failed.">
       <created>1415667436103</created>
+      <option name="number" value="00029" />
+      <option name="project" value="LOCAL" />
       <updated>1415667436103</updated>
     </task>
     <task id="LOCAL-00030" summary="Updated documentation on ScoreTracker.addScore">
       <created>1415668406103</created>
+      <option name="number" value="00030" />
+      <option name="project" value="LOCAL" />
       <updated>1415668406103</updated>
     </task>
     <task id="LOCAL-00031" summary="Updated documentation on ScoreTracker.addScore">
       <created>1416114102214</created>
+      <option name="number" value="00031" />
+      <option name="project" value="LOCAL" />
       <updated>1416114102214</updated>
     </task>
     <task id="LOCAL-00032" summary="Deleted the new project, decided to use an existing template project &quot;Restauant Quiz&quot; to modify to become my project instead">
       <created>1439705873112</created>
+      <option name="number" value="00032" />
+      <option name="project" value="LOCAL" />
       <updated>1439705873112</updated>
     </task>
     <option name="localTasksCounter" value="33" />
@@ -581,36 +772,36 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1612" height="884" extended-state="0" />
+    <frame x="-9" y="-9" width="1618" height="884" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31674957" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3982522" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32006633" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33933163" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3265306" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40544218" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32904884" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2636778" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32006633" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23445596" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32380953" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="91" y="91" width="1184" height="552" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33933163" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40408164" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23746032" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2636778" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298611" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32669982" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3982522" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31674957" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3265306" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="91" y="91" width="1184" height="552" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4064516" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32380953" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32669982" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -625,9 +816,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="myTodoPanelSettings">
-      <TodoPanelSettings />
-    </option>
     <MESSAGE value="Reset google play services module" />
     <MESSAGE value="Set up framework support" />
     <MESSAGE value="Fixed bug with initial dialog not displaying when game is won" />
@@ -659,402 +847,482 @@
     <breakpoint-manager>
       <option name="time" value="8" />
     </breakpoint-manager>
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/RestaurantQuiz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3876" max-vertical-offset="16949">
-          <caret line="268" column="33" selection-start-line="268" selection-start-column="33" selection-end-line="268" selection-end-column="33" />
-          <folding>
-            <element signature="e#5866#5888#0" expanded="true" />
-            <element signature="e#5927#5938#0" expanded="true" />
-            <element signature="e#7159#7173#0" expanded="true" />
-            <element signature="e#7305#7316#0" expanded="true" />
-            <element signature="e#7835#8144#0" expanded="true" />
-            <element signature="e#8133#8134#0" expanded="true" />
-            <element signature="e#8599#8607#0" expanded="true" />
-            <element signature="e#9133#9141#0" expanded="true" />
-            <element signature="e#9414#9422#0" expanded="true" />
-            <element signature="e#12202#12212#0" expanded="true" />
-            <element signature="e#12745#12755#0" expanded="true" />
-            <element signature="e#13588#13873#0" expanded="true" />
-            <element signature="e#13862#13863#0" expanded="true" />
-            <element signature="e#25529#25656#0" expanded="true" />
-            <element signature="e#25645#25646#0" expanded="true" />
-            <element signature="e#25927#26070#0" expanded="true" />
-            <element signature="e#26055#26056#0" expanded="true" />
-            <element signature="e#26181#26297#0" expanded="true" />
-            <element signature="e#26290#26291#0" expanded="true" />
-            <element signature="e#26632#26640#0" expanded="true" />
-            <element signature="e#27121#27405#0" expanded="true" />
-            <element signature="e#27398#27399#0" expanded="true" />
-            <element signature="e#37442#38041#0" expanded="true" />
-            <element signature="e#38026#38027#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/google/GoogleDirectionsParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="1207">
+        <state vertical-scroll-proportion="0.0">
           <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/google/GoogleAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="986">
+        <state vertical-scroll-proportion="0.0">
           <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/Score.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="629">
+        <state vertical-scroll-proportion="0.0">
           <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#677#678#0" expanded="false" />
+            <element signature="e#717#718#0" expanded="false" />
+            <element signature="e#752#753#0" expanded="false" />
+            <element signature="e#791#792#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/ScoreTracker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="2924">
+        <state vertical-scroll-proportion="0.0">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2690#2691#0" expanded="false" />
+            <element signature="e#2724#2725#0" expanded="false" />
+            <element signature="e#2907#2908#0" expanded="false" />
+            <element signature="e#2946#2947#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/MarkerManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1496" max-vertical-offset="2618">
+        <state vertical-scroll-proportion="0.0">
           <caret line="88" column="50" selection-start-line="88" selection-start-column="50" selection-end-line="88" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#957#958#0" expanded="false" />
+            <element signature="e#1011#1012#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/RestaurantQuiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="268" column="33" selection-start-line="268" selection-start-column="33" selection-end-line="268" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/ScoreTracker.java">
+    <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/google/GoogleDirectionsParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/MarkerManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="88" column="50" selection-start-line="88" selection-start-column="50" selection-end-line="88" selection-end-column="50" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/google/GoogleAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/Score.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="e#677#678#0" expanded="false" />
+            <element signature="e#717#718#0" expanded="false" />
+            <element signature="e#752#753#0" expanded="false" />
+            <element signature="e#791#792#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/ScoreTracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2690#2691#0" expanded="false" />
+            <element signature="e#2724#2725#0" expanded="false" />
+            <element signature="e#2907#2908#0" expanded="false" />
+            <element signature="e#2946#2947#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/MarkerManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="88" column="50" selection-start-line="88" selection-start-column="50" selection-end-line="88" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#957#958#0" expanded="false" />
+            <element signature="e#1011#1012#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/RestaurantQuiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="268" column="33" selection-start-line="268" selection-start-column="33" selection-end-line="268" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/google/GoogleDirectionsParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/google/GoogleAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/Score.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="e#677#678#0" expanded="false" />
+            <element signature="e#717#718#0" expanded="false" />
+            <element signature="e#752#753#0" expanded="false" />
+            <element signature="e#791#792#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/ScoreTracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2690#2691#0" expanded="false" />
+            <element signature="e#2724#2725#0" expanded="false" />
+            <element signature="e#2907#2908#0" expanded="false" />
+            <element signature="e#2946#2947#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/MarkerManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="88" column="50" selection-start-line="88" selection-start-column="50" selection-end-line="88" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#957#958#0" expanded="false" />
+            <element signature="e#1011#1012#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/ScoreTracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2690#2691#0" expanded="false" />
+            <element signature="e#2724#2725#0" expanded="false" />
+            <element signature="e#2907#2908#0" expanded="false" />
+            <element signature="e#2946#2947#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/MarkerManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="88" column="50" selection-start-line="88" selection-start-column="50" selection-end-line="88" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#957#958#0" expanded="false" />
+            <element signature="e#1011#1012#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/google/GoogleAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/google/GoogleDirectionsParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/RestaurantQuiz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="777" column="0" selection-start-line="777" selection-start-column="0" selection-end-line="777" selection-end-column="0" />
-          <folding>
-            <element signature="e#5866#5888#0" expanded="true" />
-            <element signature="e#5927#5938#0" expanded="true" />
-            <element signature="e#7159#7173#0" expanded="true" />
-            <element signature="e#7305#7316#0" expanded="true" />
-            <element signature="e#7835#8144#0" expanded="true" />
-            <element signature="e#8133#8134#0" expanded="true" />
-            <element signature="e#8599#8607#0" expanded="true" />
-            <element signature="e#9133#9141#0" expanded="true" />
-            <element signature="e#9414#9422#0" expanded="true" />
-            <element signature="e#12202#12212#0" expanded="true" />
-            <element signature="e#12745#12755#0" expanded="true" />
-            <element signature="e#13588#13873#0" expanded="true" />
-            <element signature="e#13862#13863#0" expanded="true" />
-            <element signature="e#25529#25656#0" expanded="true" />
-            <element signature="e#25645#25646#0" expanded="true" />
-            <element signature="e#25927#26070#0" expanded="true" />
-            <element signature="e#26055#26056#0" expanded="true" />
-            <element signature="e#26181#26297#0" expanded="true" />
-            <element signature="e#26290#26291#0" expanded="true" />
-            <element signature="e#26632#26640#0" expanded="true" />
-            <element signature="e#27121#27405#0" expanded="true" />
-            <element signature="e#27398#27399#0" expanded="true" />
-            <element signature="e#37442#38041#0" expanded="true" />
-            <element signature="e#38026#38027#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/RestaurantQuiz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="235" column="37" selection-start-line="235" selection-start-column="37" selection-end-line="235" selection-end-column="37" />
-          <folding>
-            <element signature="e#5866#5888#0" expanded="true" />
-            <element signature="e#5927#5938#0" expanded="true" />
-            <element signature="e#7159#7173#0" expanded="true" />
-            <element signature="e#7305#7316#0" expanded="true" />
-            <element signature="e#7835#8144#0" expanded="true" />
-            <element signature="e#8133#8134#0" expanded="true" />
-            <element signature="e#8599#8607#0" expanded="true" />
-            <element signature="e#9133#9141#0" expanded="true" />
-            <element signature="e#9414#9422#0" expanded="true" />
-            <element signature="e#12202#12212#0" expanded="true" />
-            <element signature="e#12745#12755#0" expanded="true" />
-            <element signature="e#13588#13873#0" expanded="true" />
-            <element signature="e#13862#13863#0" expanded="true" />
-            <element signature="e#25529#25656#0" expanded="true" />
-            <element signature="e#25645#25646#0" expanded="true" />
-            <element signature="e#25927#26070#0" expanded="true" />
-            <element signature="e#26055#26056#0" expanded="true" />
-            <element signature="e#26181#26297#0" expanded="true" />
-            <element signature="e#26290#26291#0" expanded="true" />
-            <element signature="e#26632#26640#0" expanded="true" />
-            <element signature="e#27121#27405#0" expanded="true" />
-            <element signature="e#27398#27399#0" expanded="true" />
-            <element signature="e#37442#38041#0" expanded="true" />
-            <element signature="e#38026#38027#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/google/GoogleDirectionsParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/RestaurantQuiz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/libs/java-json.jar!/org/json/JSONException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20628683" vertical-offset="0" max-vertical-offset="0">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/.name">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/google-play-services_lib/google-play-services_lib.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/ScoreListAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4777563" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.4777563">
           <caret line="51" column="53" selection-start-line="51" selection-start-column="53" selection-end-line="51" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/ScoreSerializer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44294003" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.44294003">
           <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/google-play-services_lib/libs/google-play-services.jar!/com/google/android/gms/maps/model/BitmapDescriptorFactory.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7524178" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.7524178">
           <caret line="35" column="69" selection-start-line="35" selection-start-column="69" selection-end-line="35" selection-end-column="69" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/util/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17894737" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.17894737">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/yelp/YelpAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.2232473" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="2.2232473">
           <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/model/Category.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.1379962" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="-1.1379962">
           <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/model/City.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.891129" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.891129">
           <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/model/GeoArea.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12730627" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.12730627">
           <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/model/Leg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.7561437" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="-1.7561437">
           <caret line="13" column="28" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/model/Neighbourhood.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.705104" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.705104">
           <caret line="93" column="0" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/model/Restaurant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.083176" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="-3.083176">
           <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/model/Route.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.82986766" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.82986766">
           <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/libs/android-maps-util.jar!/com/google/maps/android/PolyUtil.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6785714" vertical-offset="0" max-vertical-offset="0">
-          <caret line="33" column="75" selection-start-line="33" selection-start-column="75" selection-end-line="33" selection-end-column="75" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/yelp/YelpDataParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6355476" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.6355476">
           <caret line="77" column="7" selection-start-line="77" selection-start-column="7" selection-end-line="77" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/google-play-services_lib/libs/google-play-services.jar!/com/google/android/gms/maps/model/Marker.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16441005" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.16441005">
           <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/google-play-services_lib/libs/google-play-services.jar!/com/google/android/gms/maps/model/LatLng.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="14" column="17" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/google/GoogleAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/Score.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#677#678#0" expanded="false" />
+            <element signature="e#717#718#0" expanded="false" />
+            <element signature="e#752#753#0" expanded="false" />
+            <element signature="e#791#792#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/ScoreTracker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2690#2691#0" expanded="false" />
+            <element signature="e#2724#2725#0" expanded="false" />
+            <element signature="e#2907#2908#0" expanded="false" />
+            <element signature="e#2946#2947#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/MarkerManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="88" column="50" selection-start-line="88" selection-start-column="50" selection-end-line="88" selection-end-column="50" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#957#958#0" expanded="false" />
+            <element signature="e#1011#1012#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/google/GoogleDirectionsParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cpsc210/quiz/activity/RestaurantQuiz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="268" column="33" selection-start-line="268" selection-start-column="33" selection-end-line="268" selection-end-column="33" />
-          <folding>
-            <element signature="e#5866#5888#0" expanded="true" />
-            <element signature="e#5927#5938#0" expanded="true" />
-            <element signature="e#7159#7173#0" expanded="true" />
-            <element signature="e#7305#7316#0" expanded="true" />
-            <element signature="e#7835#8144#0" expanded="true" />
-            <element signature="e#8133#8134#0" expanded="true" />
-            <element signature="e#8599#8607#0" expanded="true" />
-            <element signature="e#9133#9141#0" expanded="true" />
-            <element signature="e#9414#9422#0" expanded="true" />
-            <element signature="e#12202#12212#0" expanded="true" />
-            <element signature="e#12745#12755#0" expanded="true" />
-            <element signature="e#13588#13873#0" expanded="true" />
-            <element signature="e#13862#13863#0" expanded="true" />
-            <element signature="e#25529#25656#0" expanded="true" />
-            <element signature="e#25645#25646#0" expanded="true" />
-            <element signature="e#25927#26070#0" expanded="true" />
-            <element signature="e#26055#26056#0" expanded="true" />
-            <element signature="e#26181#26297#0" expanded="true" />
-            <element signature="e#26290#26291#0" expanded="true" />
-            <element signature="e#26632#26640#0" expanded="true" />
-            <element signature="e#27121#27405#0" expanded="true" />
-            <element signature="e#27398#27399#0" expanded="true" />
-            <element signature="e#37442#38041#0" expanded="true" />
-            <element signature="e#38026#38027#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="289" column="0" selection-start-line="289" selection-start-column="0" selection-end-line="289" selection-end-column="0" />
+          <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_category_chooser.xml">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="96" column="0" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
   </component>
@@ -1097,7 +1365,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>Android API 21 Platform</last-edited>
+          <last-edited>Android 5.0 Google APIs</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1146,4 +1414,3 @@
     </states>
   </component>
 </project>
-
