@@ -1,0 +1,32 @@
+parallel
+code smell
+mini database squeal
+objects
+android app
+google custom search API
+---------
+recursive
+GUI
+---------
+Youtube API
+Blogger API
+SoundCloud API
+Fb API
+---------
+
+
+XML
+PHP
+Rails
+Objective-C
+Herokku
+SQL
+
+
+cs304
+math317
+econ102
+
+cs121
+cs313
+cs320
