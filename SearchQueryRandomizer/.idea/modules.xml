@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Search Query Randomizer/Search Query Randomizer.iml" filepath="$PROJECT_DIR$/Search Query Randomizer/Search Query Randomizer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SearchQueryRandomizer.iml" filepath="$PROJECT_DIR$/SearchQueryRandomizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestaurantQuiz-Phase2.iml" filepath="$PROJECT_DIR$/RestaurantQuiz-Phase2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/google-play-services_lib/google-play-services_lib.iml" filepath="$PROJECT_DIR$/google-play-services_lib/google-play-services_lib.iml" />
     </modules>
   </component>
 </project>
