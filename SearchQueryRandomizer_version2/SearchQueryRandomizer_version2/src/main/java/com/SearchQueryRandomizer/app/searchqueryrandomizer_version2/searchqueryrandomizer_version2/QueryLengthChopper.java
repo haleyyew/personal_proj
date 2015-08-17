@@ -1,10 +1,21 @@
 package com.SearchQueryRandomizer.app.searchqueryrandomizer_version2.searchqueryrandomizer_version2;
 
+import java.util.ArrayList;
+
 /**
  * Created by Haoran on 2015-08-16.
  */
 public class QueryLengthChopper {
+    public static String chopQuery(String query){
+        String[] strs;
+        strs = query.split(" ");
 
+        String str = "";
+        for (String string: strs){
+            str += string;
+        }
+        return str;
+    }
 
     /*
     from random import shuffle

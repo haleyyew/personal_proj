@@ -13,6 +13,8 @@ import android.widget.*;
 
 import java.util.ArrayList;
 
+import static com.SearchQueryRandomizer.app.searchqueryrandomizer_version2.searchqueryrandomizer_version2.QueryLengthChopper.chopQuery;
+
 
 public class SearchQueryRandomizer_version2 extends ActionBarActivity
         implements View.OnClickListener, AdapterView.OnItemClickListener, MenuItem.OnMenuItemClickListener {
@@ -78,8 +80,8 @@ public class SearchQueryRandomizer_version2 extends ActionBarActivity
             }
 
             case R.id.selector: {
-                arrayList.add(str);
-                adapter.notifyDataSetChanged();
+                String choppedString = chopQuery(str);
+                mainEditText.setText(choppedString, TextView.BufferType.EDITABLE);
             }
 
         }
