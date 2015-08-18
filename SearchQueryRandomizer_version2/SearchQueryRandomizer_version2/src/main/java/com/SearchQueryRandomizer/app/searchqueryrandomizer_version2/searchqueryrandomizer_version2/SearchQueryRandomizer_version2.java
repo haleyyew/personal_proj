@@ -13,11 +13,10 @@ import android.widget.*;
 
 import java.util.ArrayList;
 
-import static com.SearchQueryRandomizer.app.searchqueryrandomizer_version2.searchqueryrandomizer_version2.QueryLengthChopper.chopQuery;
 
 
 public class SearchQueryRandomizer_version2 extends ActionBarActivity
-        implements View.OnClickListener, AdapterView.OnItemClickListener, MenuItem.OnMenuItemClickListener {
+        implements View.OnClickListener, AdapterView.OnItemClickListener, MenuItem.OnMenuItemClickListener, AdapterView.OnItemSelectedListener {
     TextView mainTextView;
     Button mainButton;
     Button mainSearchButton;
@@ -36,8 +35,7 @@ public class SearchQueryRandomizer_version2 extends ActionBarActivity
         mainTextView = (TextView) findViewById(R.id.textView);
         mainTextView.setText("Let's find out how good Google Custom Search is when searching for " +
                 "your desired web page using your randomized query string.");
-        mainButton = (Button) findViewById(R.id.randomizeButton);
-        mainButton.setOnClickListener(this);
+
         mainSearchButton = (Button) findViewById(R.id.googleSearchButton);
         mainSearchButton.setOnClickListener(this);
         mainEditText = (EditText) findViewById(R.id.textbox);
@@ -50,10 +48,10 @@ public class SearchQueryRandomizer_version2 extends ActionBarActivity
         mainListView.setOnItemClickListener(this);
 
         mainSelector = (Spinner)findViewById(R.id.selector);
-        String[] options = new String[]{"Do not randomize", "Delete 25% of query", "Delete 50% of query"};
+        String[] options = new String[]{"Do not randomly delete anything", "Delete 25% of query", "Delete 50% of query"};
         arrayAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_item, options);
         mainSelector.setAdapter(adapter);
-        mainSelector.setOnClickListener(this);
+        mainSelector.setOnItemSelectedListener(this);
     }
 
 
@@ -79,10 +77,10 @@ public class SearchQueryRandomizer_version2 extends ActionBarActivity
                 adapter.notifyDataSetChanged();
             }
 
-            case R.id.selector: {
-                String choppedString = chopQuery(str);
-                mainEditText.setText(choppedString, TextView.BufferType.EDITABLE);
-            }
+//            case R.id.selector: {
+//                String choppedString = chopQuery(str);
+//                mainEditText.setText(choppedString, TextView.BufferType.EDITABLE);
+//            }
 
         }
     }
@@ -106,5 +104,19 @@ public class SearchQueryRandomizer_version2 extends ActionBarActivity
     public boolean onMenuItemClick(MenuItem menuItem) {
         Toast.makeText(this, "No settings can be configured for this simple android app.", Toast.LENGTH_LONG).show();
         return false;
+    }
+
+    @Override
+    public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
+        int option = i;
+        String str = mainEditText.getText().toString();
+        QueryLengthChopper chopper = new QueryLengthChopper();
+        String choppedString = chopper.chopQuery(str, option);
+        mainEditText.setText(choppedString);
+    }
+
+    @Override
+    public void onNothingSelected(AdapterView<?> adapterView) {
+
     }
 }
