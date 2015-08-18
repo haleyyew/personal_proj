@@ -80,6 +80,9 @@ public class SearchQueryRandomizer_version2 extends ActionBarActivity
                 break;
             }*/
             case R.id.googleSearchButton: {
+                if (str.equals("")){
+                    break;
+                }
                 arrayList.add(str);
                 adapter.notifyDataSetChanged();
             }
