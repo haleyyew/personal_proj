@@ -1,13 +1,16 @@
 parallel
 code smell
-mini database squeal
+//mini database squeal
 objects
 android app
-google custom search API
+search with google by opening new browser with uri
 ---------
 recursive
 GUI
 ---------
+google custom search API
+JSON
+
 Youtube API
 Blogger API
 SoundCloud API

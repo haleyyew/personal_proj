@@ -31,7 +31,7 @@ public class QueryLengthChopper {
 
         String str = "";
         for (String string: strs){
-            str += string;
+            str += string + " ";
         }
         return str;
     }

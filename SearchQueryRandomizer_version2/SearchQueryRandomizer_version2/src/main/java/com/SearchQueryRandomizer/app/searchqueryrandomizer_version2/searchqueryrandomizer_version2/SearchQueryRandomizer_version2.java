@@ -2,9 +2,13 @@ package com.SearchQueryRandomizer.app.searchqueryrandomizer_version2.searchquery
 
 
 import android.content.DialogInterface;
+import android.content.Intent;
+import android.net.Uri;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.support.v7.app.AlertDialog;
+import android.text.Editable;
+import android.text.TextWatcher;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -16,7 +20,7 @@ import java.util.ArrayList;
 
 
 public class SearchQueryRandomizer_version2 extends ActionBarActivity
-        implements View.OnClickListener, AdapterView.OnItemClickListener, MenuItem.OnMenuItemClickListener, AdapterView.OnItemSelectedListener {
+        implements View.OnClickListener, AdapterView.OnItemClickListener, MenuItem.OnMenuItemClickListener, AdapterView.OnItemSelectedListener, TextWatcher {
     TextView mainTextView;
     Button mainButton;
     Button mainSearchButton;
@@ -33,12 +37,14 @@ public class SearchQueryRandomizer_version2 extends ActionBarActivity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_search_query_randomizer_version2);
         mainTextView = (TextView) findViewById(R.id.textView);
-        mainTextView.setText("Let's find out how good Google Custom Search is when searching for " +
-                "your desired web page using your randomized query string.");
+        mainTextView.setText("Let's find out how good Google Search is when searching for " +
+                "your desired web page using your randomized query string. First add it to the search queue." +
+                "Then click on one of the entries to search.");
 
         mainSearchButton = (Button) findViewById(R.id.googleSearchButton);
         mainSearchButton.setOnClickListener(this);
         mainEditText = (EditText) findViewById(R.id.textbox);
+        mainEditText.addTextChangedListener(this);
 
         mainListView = (ListView) findViewById(R.id.listQuery);
         adapter = new ArrayAdapter(this,
@@ -50,7 +56,8 @@ public class SearchQueryRandomizer_version2 extends ActionBarActivity
         mainSelector = (Spinner)findViewById(R.id.selector);
         String[] options = new String[]{"Do not randomly delete anything", "Delete 25% of query", "Delete 50% of query"};
         arrayAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_item, options);
-        mainSelector.setAdapter(adapter);
+        arrayAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+        mainSelector.setAdapter(arrayAdapter);
         mainSelector.setOnItemSelectedListener(this);
     }
 
@@ -92,12 +99,26 @@ public class SearchQueryRandomizer_version2 extends ActionBarActivity
 
     private void displayMessage(int i, Object o) {
         AlertDialog.Builder alert = new AlertDialog.Builder(this);
-        alert.setTitle("Page Title");
-        alert.setMessage("Page URL");
-        alert.setNegativeButton("OK", new DialogInterface.OnClickListener() {
-            public void onClick(DialogInterface dialog, int whichButton) {}
+        final String str = (String) o;
+        alert.setTitle("Query: " + (String) o);
+        alert.setMessage("Click on Search with Google to open your default internet browser, opens Google and" +
+                "search for your selected query.");
+        alert.setPositiveButton("Search with Google", new DialogInterface.OnClickListener() {
+            public void onClick(DialogInterface dialog, int whichButton) {
+                String finalQuery = getFinalQuery(str);
+                Uri uri = Uri.parse(finalQuery);
+                Intent intent = new Intent(Intent.ACTION_VIEW, uri);
+                startActivity(intent);
+            }
         });
         alert.show();
+    }
+
+    private String getFinalQuery(String str) {
+        String concat = "http://www.google.com/";
+        concat += "search?q=";
+        concat += str.replaceAll(" ", "+");
+        return concat;
     }
 
     @Override
@@ -106,6 +127,8 @@ public class SearchQueryRandomizer_version2 extends ActionBarActivity
         return false;
     }
 
+
+
     @Override
     public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
         int option = i;
@@ -113,10 +136,34 @@ public class SearchQueryRandomizer_version2 extends ActionBarActivity
         QueryLengthChopper chopper = new QueryLengthChopper();
         String choppedString = chopper.chopQuery(str, option);
         mainEditText.setText(choppedString);
+        mainSelector.setSelection(0);
     }
 
     @Override
     public void onNothingSelected(AdapterView<?> adapterView) {
+
+    }
+
+
+
+    @Override
+    public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {
+
+    }
+
+    @Override
+    public void onTextChanged(CharSequence charSequence, int i, int i1, int i2) {
+
+    }
+
+    @Override
+    public void afterTextChanged(Editable editable) {
+        for(int i = editable.length(); i > 0; i--){
+
+            if(editable.subSequence(i-1, i).toString().equals("\n"))
+                editable.replace(i-1, i, "");
+
+        }
 
     }
 }
