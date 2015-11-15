@@ -1,3 +1,0 @@
-Eulers_Method_Calculator
-handle convert to float exception, determine input type
-better gui design: different classes for each row
