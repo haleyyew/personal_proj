@@ -9,5 +9,4 @@ Or the calculator can be run directly by clicking the application_window_oop.exe
 The executable files are also available for download on my personal project Google Drive public folder:
 https://drive.google.com/folderview?id=0B37sp51YILiZfkxmcldvVkFia01BeE9lVkY1dW1yVkJFNG5DcjlqRDlVLTZONnhGY2ZHc3c&usp=sharing
 
-Search Query Randomizer
-------------------------
+
